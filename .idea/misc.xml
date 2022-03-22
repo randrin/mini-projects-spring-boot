@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/upload-download-file/pom.xml" />
         <option value="$PROJECT_DIR$/upload-download-file-1/pom.xml" />
+        <option value="$PROJECT_DIR$/roles-based-authorization/pom.xml" />
       </list>
     </option>
   </component>

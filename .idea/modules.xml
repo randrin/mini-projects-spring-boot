@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/mini-projects-spring-boot.iml" filepath="$PROJECT_DIR$/.idea/mini-projects-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roles-based-authorization/roles-based-authorization.iml" filepath="$PROJECT_DIR$/roles-based-authorization/roles-based-authorization.iml" />
       <module fileurl="file://$PROJECT_DIR$/upload-download-file/upload-download-file.iml" filepath="$PROJECT_DIR$/upload-download-file/upload-download-file.iml" />
     </modules>
   </component>
