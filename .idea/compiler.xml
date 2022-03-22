@@ -6,16 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="roles-based-authorization" />
         <module name="upload-download-file" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="roles-based-authorization" target="11" />
       <module name="upload-download-file" target="11" />
       <module name="upload-download-file (1)" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="roles-based-authorization" options="-parameters" />
       <module name="upload-download-file" options="-parameters" />
       <module name="upload-download-file (1)" options="-parameters" />
     </option>
