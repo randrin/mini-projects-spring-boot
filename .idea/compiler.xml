@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="i18n-multilanguage" />
         <module name="roles-based-authorization" />
         <module name="upload-download-file" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="i18n-multilanguage" target="11" />
       <module name="roles-based-authorization" target="11" />
       <module name="upload-download-file" target="11" />
       <module name="upload-download-file (1)" target="11" />
@@ -18,6 +20,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="i18n-multilanguage" options="-parameters" />
       <module name="roles-based-authorization" options="-parameters" />
       <module name="upload-download-file" options="-parameters" />
       <module name="upload-download-file (1)" options="-parameters" />
