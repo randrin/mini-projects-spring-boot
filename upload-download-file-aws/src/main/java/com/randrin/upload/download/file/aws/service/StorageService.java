@@ -29,7 +29,7 @@ public class StorageService {
         File fileObject = convertMultipartFileToFile(file);
         String fileName = System.currentTimeMillis() + "_" + file.getOriginalFilename();
         s3Client.putObject(new PutObjectRequest(bucketName, fileName, fileObject));
-        fileObject.deleteOnExit();
+        fileObject.delete();
         return "File uploaded " + file.getOriginalFilename() + " successfully in aws.";
     }
 
