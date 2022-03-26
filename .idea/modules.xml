@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/pagination-and-sorting/pagination-and-sorting.iml" filepath="$PROJECT_DIR$/pagination-and-sorting/pagination-and-sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/roles-based-authorization/roles-based-authorization.iml" filepath="$PROJECT_DIR$/roles-based-authorization/roles-based-authorization.iml" />
       <module fileurl="file://$PROJECT_DIR$/upload-download-file/upload-download-file.iml" filepath="$PROJECT_DIR$/upload-download-file/upload-download-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upload-download-file-aws/upload-download-file-aws.iml" filepath="$PROJECT_DIR$/upload-download-file-aws/upload-download-file-aws.iml" />
     </modules>
   </component>
 </project>

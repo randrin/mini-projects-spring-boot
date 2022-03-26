@@ -1,0 +1,22 @@
+server:
+  port: 9195
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAQRTY4IW4XJM5RSU4
+      secret-key: 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
+    region:
+     static: eu-central-1
+    stack:
+      auto: false
+application:
+  bucket:
+    name: upload-download-file-aws
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      file-size-threshold: 2KB
+      max-file-size: 200MB
+      max-request-size: 10MB
+
