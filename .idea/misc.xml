@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/i18n-multilanguage/pom.xml" />
         <option value="$PROJECT_DIR$/pagination-and-sorting/pom.xml" />
         <option value="$PROJECT_DIR$/upload-download-file-aws/pom.xml" />
+        <option value="$PROJECT_DIR$/publisher-subcriber-rabbitMQ/pom.xml" />
       </list>
     </option>
   </component>
