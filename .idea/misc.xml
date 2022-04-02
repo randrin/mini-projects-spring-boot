@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/upload-download-file-aws/pom.xml" />
         <option value="$PROJECT_DIR$/publisher-subcriber-rabbitMQ/pom.xml" />
         <option value="$PROJECT_DIR$/publisher-subcriber-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/sending-email-attachment/pom.xml" />
       </list>
     </option>
   </component>
