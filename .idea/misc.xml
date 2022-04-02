@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/pagination-and-sorting/pom.xml" />
         <option value="$PROJECT_DIR$/upload-download-file-aws/pom.xml" />
         <option value="$PROJECT_DIR$/publisher-subcriber-rabbitMQ/pom.xml" />
+        <option value="$PROJECT_DIR$/publisher-subcriber-kafka/pom.xml" />
       </list>
     </option>
   </component>

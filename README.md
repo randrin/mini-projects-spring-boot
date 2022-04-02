@@ -5,4 +5,4 @@
 * [I18n Internalization Multilanguage](https://github.com/randrin/mini-projects-spring-boot/tree/master/i18n-multilanguage)
 * [Pagination and Sorting](https://github.com/randrin/mini-projects-spring-boot/tree/master/pagination-and-sorting)
 * [Upload/Download file in aws bucket](https://github.com/randrin/mini-projects-spring-boot/tree/master/upload-download-file-aws)
-
+* [Producer/Consumer with RabbitMQ](https://github.com/randrin/mini-projects-spring-boot/tree/master/publisher-subcriber-rabbitMQ)

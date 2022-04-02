@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/i18n-multilanguage/i18n-multilanguage.iml" filepath="$PROJECT_DIR$/i18n-multilanguage/i18n-multilanguage.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mini-projects-spring-boot.iml" filepath="$PROJECT_DIR$/.idea/mini-projects-spring-boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/pagination-and-sorting/pagination-and-sorting.iml" filepath="$PROJECT_DIR$/pagination-and-sorting/pagination-and-sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publisher-subcriber-kafka/publisher-subcriber-kafka.iml" filepath="$PROJECT_DIR$/publisher-subcriber-kafka/publisher-subcriber-kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/publisher-subcriber-rabbitMQ/publisher-subcriber-rabbitMQ.iml" filepath="$PROJECT_DIR$/publisher-subcriber-rabbitMQ/publisher-subcriber-rabbitMQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/roles-based-authorization/roles-based-authorization.iml" filepath="$PROJECT_DIR$/roles-based-authorization/roles-based-authorization.iml" />
       <module fileurl="file://$PROJECT_DIR$/upload-download-file/upload-download-file.iml" filepath="$PROJECT_DIR$/upload-download-file/upload-download-file.iml" />
