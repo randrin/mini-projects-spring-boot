@@ -10,6 +10,7 @@
         <module name="upload-download-file-aws" />
         <module name="i18n-multilanguage" />
         <module name="publisher-subcriber-kafka" />
+        <module name="sending-email-attachment" />
         <module name="upload-download-file" />
         <module name="pagination-and-sorting" />
         <module name="publisher-subcriber-rabbitMQ" />
@@ -21,6 +22,7 @@
       <module name="publisher-subcriber-kafka" target="11" />
       <module name="publisher-subcriber-rabbitMQ" target="11" />
       <module name="roles-based-authorization" target="11" />
+      <module name="sending-email-attachment" target="11" />
       <module name="upload-download-file" target="11" />
       <module name="upload-download-file (1)" target="11" />
       <module name="upload-download-file-aws" target="1.8" />
@@ -33,6 +35,7 @@
       <module name="publisher-subcriber-kafka" options="-parameters" />
       <module name="publisher-subcriber-rabbitMQ" options="-parameters" />
       <module name="roles-based-authorization" options="-parameters" />
+      <module name="sending-email-attachment" options="-parameters" />
       <module name="upload-download-file" options="-parameters" />
       <module name="upload-download-file (1)" options="-parameters" />
       <module name="upload-download-file-aws" options="-parameters" />
