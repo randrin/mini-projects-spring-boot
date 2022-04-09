@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/publisher-subcriber-rabbitMQ/pom.xml" />
         <option value="$PROJECT_DIR$/publisher-subcriber-kafka/pom.xml" />
         <option value="$PROJECT_DIR$/sending-email-attachment/pom.xml" />
+        <option value="$PROJECT_DIR$/sending-email-with-template/pom.xml" />
       </list>
     </option>
   </component>
