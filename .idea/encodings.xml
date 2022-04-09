@@ -4,10 +4,15 @@
     <file url="file://$PROJECT_DIR$/i18n-multilanguage/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pagination-and-sorting/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/publisher-subcriber-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/publisher-subcriber-kafka/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/publisher-subcriber-rabbitMQ/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/publisher-subcriber-rabbitMQ/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/roles-based-authorization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/roles-based-authorization/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sending-email-attachment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sending-email-attachment/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/upload-download-file-aws/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/upload-download-file-aws/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/upload-download-file/src/main/java" charset="UTF-8" />
   </component>
 </project>
