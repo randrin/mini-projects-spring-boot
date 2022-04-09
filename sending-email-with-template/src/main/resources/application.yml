@@ -1,0 +1,18 @@
+server:
+  port: 9195
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: vanessaandrandrin@gmail.com
+    password: xeswbvtvdbpxkelr
+    default-encoding: UTF-8
+    test-connection: false
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+

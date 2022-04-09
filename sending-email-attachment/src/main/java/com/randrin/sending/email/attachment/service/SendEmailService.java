@@ -11,6 +11,7 @@ import org.springframework.stereotype.Service;
 import javax.mail.MessagingException;
 import javax.mail.internet.MimeMessage;
 import java.io.File;
+import java.nio.charset.StandardCharsets;
 
 @Service
 public class SendEmailService {
@@ -35,7 +36,8 @@ public class SendEmailService {
 
     public void sendEmailWithAttachment(String toEmail, String body, String subject, String attachment) throws MessagingException {
         MimeMessage mimeMessage = javaMailSender.createMimeMessage();
-        MimeMessageHelper mimeMessageHelper = new MimeMessageHelper(mimeMessage, true);
+        MimeMessageHelper mimeMessageHelper = new MimeMessageHelper(mimeMessage, MimeMessageHelper.MULTIPART_MODE_MIXED_RELATED,
+                StandardCharsets.UTF_8.name());
 
         mimeMessageHelper.setFrom(fromEmail);
         mimeMessageHelper.setTo(toEmail);
