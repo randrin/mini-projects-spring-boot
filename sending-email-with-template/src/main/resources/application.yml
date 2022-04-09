@@ -5,7 +5,7 @@ spring:
     host: smtp.gmail.com
     port: 587
     username: vanessaandrandrin@gmail.com
-    password: xeswbvtvdbpxkelr
+    password: YOUR_PASSWORD
     default-encoding: UTF-8
     test-connection: false
     properties:
