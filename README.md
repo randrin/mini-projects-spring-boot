@@ -9,3 +9,4 @@
 * [Producer/Consumer with Kafka](https://github.com/randrin/mini-projects-spring-boot/tree/master/publisher-subcriber-kafka)
 * [Send email and/or attachment](https://github.com/randrin/mini-projects-spring-boot/tree/master/sending-email-attachment)
 * [Send email with template](https://github.com/randrin/mini-projects-spring-boot/tree/master/sending-email-with-template)
+* [Request Validation Exception](https://github.com/randrin/mini-projects-spring-boot/tree/master/request-validation-exception)
