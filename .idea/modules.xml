@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/pagination-and-sorting/pagination-and-sorting.iml" filepath="$PROJECT_DIR$/pagination-and-sorting/pagination-and-sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/publisher-subcriber-kafka/publisher-subcriber-kafka.iml" filepath="$PROJECT_DIR$/publisher-subcriber-kafka/publisher-subcriber-kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/publisher-subcriber-rabbitMQ/publisher-subcriber-rabbitMQ.iml" filepath="$PROJECT_DIR$/publisher-subcriber-rabbitMQ/publisher-subcriber-rabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/request-validation-exception/request-validation-exception.iml" filepath="$PROJECT_DIR$/request-validation-exception/request-validation-exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/roles-based-authorization/roles-based-authorization.iml" filepath="$PROJECT_DIR$/roles-based-authorization/roles-based-authorization.iml" />
       <module fileurl="file://$PROJECT_DIR$/sending-email-attachment/sending-email-attachment.iml" filepath="$PROJECT_DIR$/sending-email-attachment/sending-email-attachment.iml" />
       <module fileurl="file://$PROJECT_DIR$/sending-email-with-template/sending-email-with-template.iml" filepath="$PROJECT_DIR$/sending-email-with-template/sending-email-with-template.iml" />
