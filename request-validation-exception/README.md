@@ -13,3 +13,20 @@
 
 ![img.png](img.png)
 - Click to **Connect** to enter in your H2 DB application
+
+## API Reference
+
+#### Insert new user
+
+```http
+  GET /api/v1/user/register
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `name` | `string` | **Required**|
+| `email` | `string` | **Required**|
+| `age` | `integer` | **Required**|
+| `mobile` | `string` | **Required**|
+| `gender` | `string` | **Required**|
+| `nationality` | `string` | **Required**|
