@@ -19,7 +19,7 @@
 #### Insert new user
 
 ```http
-  GET /api/v1/user/register
+  POST /api/v1/user/register
 ```
 
 | Parameter | Type     | Description                |
