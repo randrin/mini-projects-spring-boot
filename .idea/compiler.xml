@@ -10,6 +10,7 @@
         <module name="upload-download-file-aws" />
         <module name="i18n-multilanguage" />
         <module name="publisher-subcriber-kafka" />
+        <module name="github-actions-cicd" />
         <module name="request-validation-exception" />
         <module name="sending-email-attachment" />
         <module name="sending-email-with-template" />
@@ -19,6 +20,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="github-actions-cicd" target="17" />
       <module name="i18n-multilanguage" target="11" />
       <module name="pagination-and-sorting" target="11" />
       <module name="publisher-subcriber-kafka" target="11" />
@@ -34,6 +36,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="github-actions-cicd" options="-parameters" />
       <module name="i18n-multilanguage" options="-parameters" />
       <module name="pagination-and-sorting" options="-parameters" />
       <module name="publisher-subcriber-kafka" options="-parameters" />
