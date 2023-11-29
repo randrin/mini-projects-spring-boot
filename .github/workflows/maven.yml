@@ -35,6 +35,6 @@ jobs:
         image: randrino/springboot-github-cicd
         tags: latest
         registry: docker.io
-        dockerfile: Dockerfile
+        dockerfile: ./github-actions-cicd/Dockerfile
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
