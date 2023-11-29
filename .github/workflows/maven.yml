@@ -32,7 +32,7 @@ jobs:
     - name: Build & Push Docker image
       uses: mr-smithers-excellent/docker-build-push@v5
       with:
-        images: randrino/springboot-github-cicd
+        image: randrino/springboot-github-cicd
         tags: latest
         registry: docker.io
         dockerfile: ./github-actions-cicd/Dockerfile
