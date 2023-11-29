@@ -29,3 +29,12 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: mvn -f ./github-actions-cicd/pom.xml clean install
+    - name: Build & Push Docker image
+      uses: mr-smithers-excellent/docker-build-push@v5
+      with:
+        image: randrino/springboot-github-cicd
+        tags: latest
+        registry: docker.io
+        dockerfile: ./github-actions-cicd/Dockerfile
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
